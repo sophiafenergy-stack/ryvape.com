@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <title>RY Vape OEM Manufacturer</title>
-  <meta name="description" content="Vape & E-liquid OEM manufacturer from China. B2B cooperation only.">
 </head>
 <body>
 
 <h1>Vape & E-Liquid OEM Manufacturer</h1>
+
 <p>Reliable supply from China for overseas brands and distributors.</p>
 
 <p>
@@ -17,3 +17,4 @@
 
 </body>
 </html>
+
