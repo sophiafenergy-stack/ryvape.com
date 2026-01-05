@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact | RY Vape</title>
+</head>
+<body>
+
+<h1>Contact for OEM Cooperation</h1>
+
+<p>If you are a brand owner, importer, or distributor, please contact us directly.</p>
+
+<p>
+  Email: <strong>sales@ryvape.com</strong><br>
+  Company: Hong Kong RY Technology Co., Limited
+</p>
+
+<p>
+  <a href="index.html">Home</a> |
+  <a href="oem.html">OEM Capability</a>
+</p>
+
+</body>
+</html>
